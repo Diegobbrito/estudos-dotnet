@@ -1,0 +1,13 @@
+/home/diego/Downloads/dotnet/tratamento/obj/Debug/netcoreapp3.1/tratamento.csprojAssemblyReference.cache
+/home/diego/Downloads/dotnet/tratamento/obj/Debug/netcoreapp3.1/tratamento.AssemblyInfoInputs.cache
+/home/diego/Downloads/dotnet/tratamento/obj/Debug/netcoreapp3.1/tratamento.AssemblyInfo.cs
+/home/diego/Downloads/dotnet/tratamento/obj/Debug/netcoreapp3.1/tratamento.csproj.CoreCompileInputs.cache
+/home/diego/Downloads/dotnet/tratamento/bin/Debug/netcoreapp3.1/tratamento
+/home/diego/Downloads/dotnet/tratamento/bin/Debug/netcoreapp3.1/tratamento.deps.json
+/home/diego/Downloads/dotnet/tratamento/bin/Debug/netcoreapp3.1/tratamento.runtimeconfig.json
+/home/diego/Downloads/dotnet/tratamento/bin/Debug/netcoreapp3.1/tratamento.runtimeconfig.dev.json
+/home/diego/Downloads/dotnet/tratamento/bin/Debug/netcoreapp3.1/tratamento.dll
+/home/diego/Downloads/dotnet/tratamento/bin/Debug/netcoreapp3.1/tratamento.pdb
+/home/diego/Downloads/dotnet/tratamento/obj/Debug/netcoreapp3.1/tratamento.dll
+/home/diego/Downloads/dotnet/tratamento/obj/Debug/netcoreapp3.1/tratamento.pdb
+/home/diego/Downloads/dotnet/tratamento/obj/Debug/netcoreapp3.1/tratamento.genruntimeconfig.cache

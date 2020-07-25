@@ -1,0 +1,13 @@
+/home/diego/Downloads/dotnet/heranca/obj/Debug/netcoreapp3.1/heranca.csprojAssemblyReference.cache
+/home/diego/Downloads/dotnet/heranca/obj/Debug/netcoreapp3.1/heranca.AssemblyInfoInputs.cache
+/home/diego/Downloads/dotnet/heranca/obj/Debug/netcoreapp3.1/heranca.AssemblyInfo.cs
+/home/diego/Downloads/dotnet/heranca/obj/Debug/netcoreapp3.1/heranca.csproj.CoreCompileInputs.cache
+/home/diego/Downloads/dotnet/heranca/bin/Debug/netcoreapp3.1/heranca
+/home/diego/Downloads/dotnet/heranca/bin/Debug/netcoreapp3.1/heranca.deps.json
+/home/diego/Downloads/dotnet/heranca/bin/Debug/netcoreapp3.1/heranca.runtimeconfig.json
+/home/diego/Downloads/dotnet/heranca/bin/Debug/netcoreapp3.1/heranca.runtimeconfig.dev.json
+/home/diego/Downloads/dotnet/heranca/bin/Debug/netcoreapp3.1/heranca.dll
+/home/diego/Downloads/dotnet/heranca/bin/Debug/netcoreapp3.1/heranca.pdb
+/home/diego/Downloads/dotnet/heranca/obj/Debug/netcoreapp3.1/heranca.dll
+/home/diego/Downloads/dotnet/heranca/obj/Debug/netcoreapp3.1/heranca.pdb
+/home/diego/Downloads/dotnet/heranca/obj/Debug/netcoreapp3.1/heranca.genruntimeconfig.cache

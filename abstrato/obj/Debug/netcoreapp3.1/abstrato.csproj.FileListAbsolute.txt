@@ -1,0 +1,13 @@
+/home/diego/Downloads/dotnet/abstrato/obj/Debug/netcoreapp3.1/abstrato.csprojAssemblyReference.cache
+/home/diego/Downloads/dotnet/abstrato/obj/Debug/netcoreapp3.1/abstrato.AssemblyInfoInputs.cache
+/home/diego/Downloads/dotnet/abstrato/obj/Debug/netcoreapp3.1/abstrato.AssemblyInfo.cs
+/home/diego/Downloads/dotnet/abstrato/obj/Debug/netcoreapp3.1/abstrato.csproj.CoreCompileInputs.cache
+/home/diego/Downloads/dotnet/abstrato/bin/Debug/netcoreapp3.1/abstrato
+/home/diego/Downloads/dotnet/abstrato/bin/Debug/netcoreapp3.1/abstrato.deps.json
+/home/diego/Downloads/dotnet/abstrato/bin/Debug/netcoreapp3.1/abstrato.runtimeconfig.json
+/home/diego/Downloads/dotnet/abstrato/bin/Debug/netcoreapp3.1/abstrato.runtimeconfig.dev.json
+/home/diego/Downloads/dotnet/abstrato/bin/Debug/netcoreapp3.1/abstrato.dll
+/home/diego/Downloads/dotnet/abstrato/bin/Debug/netcoreapp3.1/abstrato.pdb
+/home/diego/Downloads/dotnet/abstrato/obj/Debug/netcoreapp3.1/abstrato.dll
+/home/diego/Downloads/dotnet/abstrato/obj/Debug/netcoreapp3.1/abstrato.pdb
+/home/diego/Downloads/dotnet/abstrato/obj/Debug/netcoreapp3.1/abstrato.genruntimeconfig.cache
