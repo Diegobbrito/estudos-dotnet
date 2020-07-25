@@ -27,6 +27,8 @@ namespace tratamento
                 Console.WriteLine("New balance: " + acc.Balance);
             }catch(DomainException e){
                 Console.WriteLine("Error: " + e.Message);
+            }catch(FormatException e){
+                Console.WriteLine("Error: " + e.Message);
             }
 
         }
